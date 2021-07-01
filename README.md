@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-
+<p align="center"><img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+</p>
 <!--
 **gwansiklim/gwansiklim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
