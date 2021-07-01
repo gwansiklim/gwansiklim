@@ -1,4 +1,4 @@
-<a align="center"> Hi there 👋</a>
+<p align="center"> Hi there 👋</p>
 
 <p align="center"><img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 </p>
