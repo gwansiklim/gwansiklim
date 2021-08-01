@@ -4,7 +4,8 @@
 
 ### <p align="center">⚔️Stack⚔️</p>
 
-<p align="center"><img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white"/>　
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>　
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>　
