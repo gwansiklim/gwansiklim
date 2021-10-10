@@ -5,10 +5,12 @@
 ### <p align="center">⚔️Stack⚔️</p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/HTML5-e74c3c?style=flat-square&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-0A84FF?style=flat-square&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/><br/>　
   <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white"/>　
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>　
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>　
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>　
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>　
 </p>
 
